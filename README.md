@@ -25,8 +25,19 @@ Installation
 7. Click Apply license.
 
 *Download Zuki*
+
 After installing the Add-on you need to download Zuki for JIRA from the Apple App Store or the Google Play. Choose the FREE version of Zuki on both marketplaces.
 
 Here are the links:
 Android version.
 iPhone and iPad version.
+
+*Network permissions*
+
+
+
+Login considerations
+====================
+You can login Zuki using your username. Zuki doesn’t support login by email or Google Authentication. 
+
+
