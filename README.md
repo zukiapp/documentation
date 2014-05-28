@@ -6,15 +6,15 @@ Why?
 ====
 Why do I need to use an addon instead of downloading the app using the Apple App Store or Google Play?
 
-* *Functionality* The addon allows you to intercept every event on your JIRA instance and unblock a great functionality: Push Notifications.
-* *30-day-trial period* Using the Atlassian Marketplace you can test both, iOS and Android applications for free.
-* *Administration* As a company you pay the service the same way as you pay your JIRA’s subscription.
-* *Support* The Zuki development team will adapt Zuki in order to get it working on your organization without extra costs.
+* **Functionality.** The addon allows you to intercept every event on your JIRA instance and unblock a great functionality: Push Notifications.
+* **30-day-trial period.** Using the Atlassian Marketplace you can test both, iOS and Android applications for free.
+* **Administration.** As a company you pay the service the same way as you pay your JIRA’s subscription.
+* **Support.** The Zuki development team will adapt Zuki in order to get it working on your organization without extra costs.
 
 Installation
 ============
 
-*Add-on installation*
+**Add-on installation**
 
 1. Log into your JIRA instance as an admin.
 2. Click the admin dropdown and choose Atlassian Marketplace.
@@ -24,7 +24,7 @@ Installation
 6. Enter your information and click Generate license when redirected to MyAtlassian.
 7. Click Apply license.
 
-*Download Zuki*
+**Download Zuki**
 
 After installing the Add-on you need to download Zuki for JIRA from the Apple App Store or the Google Play. Choose the FREE version of Zuki on both marketplaces.
 
@@ -32,7 +32,7 @@ Here are the links:
 Android version.
 iPhone and iPad version.
 
-*Network permissions*
+**Network permissions**
 
 
 
@@ -46,7 +46,7 @@ How to use it
 
 Once you download Zuki and  your JIRA’s administrator has  installed the plugin, you are ready to go.
 
-*Login*
+**Login**
 
 Just open Zuki and complete the information to login:
 
