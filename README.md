@@ -41,3 +41,20 @@ Login considerations
 You can login Zuki using your username. Zuki doesn’t support login by email or Google Authentication. 
 
 
+How to use it
+=============
+
+Once you download Zuki and  your JIRA’s administrator has  installed the plugin, you are ready to go.
+
+*Login*
+
+Just open Zuki and complete the information to login:
+
+URL: As the screenshot shows, you have to enter the JIRA’s URL, including the prefix HTTPS or HTTP depending on your JIRA’s configuration. The JIRA’s connection port is also important. For example: https://intranet.moove-it.com:2990/jira/
+
+Username: This field is about your JIRA’s username. Zuki doesn’t support your email or Google Authentication. 
+
+Password: Your user password.
+
+
+
