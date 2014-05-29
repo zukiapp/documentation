@@ -14,7 +14,8 @@ Why do I need to use an addon instead of downloading the app using the Apple App
 Installation
 ============
 
-**Add-on installation**
+Add-on installation
+-------------------
 
 1. Log into your JIRA instance as an admin.
 2. Click the admin dropdown and choose Atlassian Marketplace.
