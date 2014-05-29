@@ -25,7 +25,8 @@ Add-on installation
 6. Enter your information and click Generate license when redirected to MyAtlassian.
 7. Click Apply license.
 
-**Download Zuki**
+Download Zuki
+-------------
 
 After installing the Add-on you need to download Zuki for JIRA from the Apple App Store or the Google Play. Choose the FREE version of Zuki on both marketplaces.
 
@@ -33,7 +34,8 @@ Here are the links:
 Android version.
 iPhone and iPad version.
 
-**Network permissions**
+Network permissions
+-------------------
 
 
 
@@ -47,7 +49,8 @@ How to use it
 
 Once you download Zuki and  your JIRA’s administrator has  installed the plugin, you are ready to go.
 
-**Login**
+Login
+-----
 
 Just open Zuki and complete the information to login:
 
@@ -57,7 +60,8 @@ Username: This field is about your JIRA’s username. Zuki doesn’t support you
 
 Password: Your user password.
 
-**Activity feed (tab on the middle)**
+Activity feed (tab on the middle)
+---------------------------------
 
 When you login the tab in the middle is the first one you see. That feed shows the activity of those issues you are following (watching). 
 Using that tab you can easily know what happened with those issues you really take care about.
