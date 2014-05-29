@@ -64,8 +64,7 @@ Login
 
 Just open Zuki and complete the information to login:
 
-![Login](/screenshots/login.PNG?raw=true)
-
+SCREENSHOT
 
 URL: As the screenshot shows, you have to enter the JIRA’s URL, including the prefix HTTPS or HTTP depending on your JIRA’s configuration. The JIRA’s connection port is also important. For example: https://intranet.moove-it.com:2990/jira/
 
@@ -76,6 +75,8 @@ Password: Your user password.
 Activity feed (tab on the middle)
 ---------------------------------
 
+SCREENSHOT
+
 When you login the tab in the middle is the first one you see. That feed shows the activity of those issues you are following (watching). 
 Using that tab you can easily know what happened with those issues you really take care about.
 
@@ -83,33 +84,51 @@ If you are not longer interested, you can unfollow issues just swiping to the ri
 
 if you want to reply a comment, you can easily take action by swiping to the left. The option modal pops out.
 
-**Issues assigned to me (tab on the left)**
+Issues assigned to me (tab on the left)
+---------------------------------------
 
 That tab contains all the issues assigned to you. 
+
+SCREENSHOT
 
 You can also follow and unfollow tickets assigned to you swiping right. if you follow an issue a green indicator turns on.
 
 You can sort your issues by Due date, Priority or Last activity. By default issues are sorted by Priority, Last activity.
 
-**All the issues (tab on the right)**
+All the issues (tab on the right)
+---------------------------------
+
+SCREENSHOT
 
 The tab on the right have all the issues of the projects you are involved. Those issues are sorted by Last activity, so updated issues are closer to the top of the list.
 
-**Search issues**
+Search issues
+-------------
 
 The search is located on the top of the application menu.
 
+SCREENSHOT
+
 You can search an issue by key or you can search by content. The search looks at the content of comments, description and summary.
 
-**JIRA filters**
+JIRA filters
+------------
 
 Zuki display the list of your favorite JIRA filters. The list also shows the issue counter for each filter.
 
-**Filter by project**
+SCREENSHOT
+
+Filter by project
+-----------------
 
 Zuki also allows you to filter the three tabs by project. You can unfilter by clicking again on the project.
 
-**Action over issues*
+SCREENSHOT
+
+Action over issues
+------------------
+
+SCREENSHOT
 
 Actions:
 - Comment
