@@ -136,3 +136,26 @@ Actions:
 - Workflow
 - Assign
 - Add attachment
+
+Credits
+=======
+
+![Moove-IT](http://moove-it.com/assets/logos/mooveitLogo-f5be7bdde9998bbdfae39475d3f3d460.png?raw=true)
+
+Zuki is a product of Moove-IT.
+
+Zuki website: www.zukiapp.com
+Moove-IT website: www.moove-it.com
+
+Support: support@zukiapp.com
+
+Thanks
+======
+
+
+
+
+
+ 
+
+
