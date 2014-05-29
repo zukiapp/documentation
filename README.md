@@ -36,11 +36,19 @@ iPhone and iPad version.
 
 Network permissions
 -------------------
+Zuki will try to access 2 servers:
+- Push Notification Server.
+- Crashalytics Server. 
 
+**Push Notification Server**
+This server is responsable for sinding Apple Push Notifications.
+The URL https://push.zukiapp.com has to be accesible from the JIRA server which will have the Zuki's plugin installed in.  
 
+**Crashalytics Server**
+![Crashalytics](crashlytics.com) is a broadly known and powerful crash reporting solution. 
 
 Login considerations
-====================
+--------------------
 You can login Zuki using your username. Zuki doesn’t support login by email or Google Authentication. 
 
 
