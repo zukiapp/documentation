@@ -45,7 +45,7 @@ This server is responsable for sinding Apple Push Notifications.
 The URL https://push.zukiapp.com has to be accesible from the JIRA server which will have the Zuki's plugin installed in.  
 
 **Crashalytics Server**
-![Crashalytics](crashlytics.com) is a broadly known and powerful crash reporting solution. 
+Crashalytics <crashlytics.com> is a broadly known and powerful crash reporting solution. 
 
 Login considerations
 --------------------
