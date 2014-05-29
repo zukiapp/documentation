@@ -41,11 +41,13 @@ Zuki will try to access 2 servers:
 - Crashalytics Server. 
 
 **Push Notification Server**
+
 This server is responsable for sinding Apple Push Notifications.
 The URL https://push.zukiapp.com has to be accesible from the JIRA server which will have the Zuki's plugin installed in.  
 
 **Crashalytics Server**
-Crashalytics <crashlytics.com> is a broadly known and powerful crash reporting solution. 
+
+Crashalytics (http://crashlytics.com) is a broadly known and powerful crash reporting solution. Some components of this framework are hosted by Amazon, so at some point Zuki will try to access Amazon servers.
 
 Login considerations
 --------------------
