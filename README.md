@@ -56,5 +56,46 @@ Username: This field is about your JIRA’s username. Zuki doesn’t support you
 
 Password: Your user password.
 
+**Activity feed (tab on the middle)**
 
+When you login the tab in the middle is the first one you see. That feed shows the activity of those issues you are following (watching). 
+Using that tab you can easily know what happened with those issues you really take care about.
 
+If you are not longer interested, you can unfollow issues just swiping to the right. 
+
+if you want to reply a comment, you can easily take action by swiping to the left. The option modal pops out.
+
+**Issues assigned to me (tab on the left)**
+
+That tab contains all the issues assigned to you. 
+
+You can also follow and unfollow tickets assigned to you swiping right. if you follow an issue a green indicator turns on.
+
+You can sort your issues by Due date, Priority or Last activity. By default issues are sorted by Priority, Last activity.
+
+**All the issues (tab on the right)**
+
+The tab on the right have all the issues of the projects you are involved. Those issues are sorted by Last activity, so updated issues are closer to the top of the list.
+
+**Search issues**
+
+The search is located on the top of the application menu.
+
+You can search an issue by key or you can search by content. The search looks at the content of comments, description and summary.
+
+**JIRA filters**
+
+Zuki display the list of your favorite JIRA filters. The list also shows the issue counter for each filter.
+
+**Filter by project**
+
+Zuki also allows you to filter the three tabs by project. You can unfilter by clicking again on the project.
+
+**Action over issues*
+
+Actions:
+- Comment
+- Log work
+- Workflow
+- Assign
+- Add attachment
