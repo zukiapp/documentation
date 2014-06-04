@@ -64,7 +64,7 @@ Login
 
 Just open Zuki and complete the information to login:
 
-SCREENSHOT
+![Login](screenshots/login.PNG?raw=true)
 
 URL: As the screenshot shows, you have to enter the JIRA’s URL, including the prefix HTTPS or HTTP depending on your JIRA’s configuration. The JIRA’s connection port is also important. For example: https://intranet.moove-it.com:2990/jira/
 
@@ -75,7 +75,7 @@ Password: Your user password.
 Activity feed (tab on the middle)
 ---------------------------------
 
-SCREENSHOT
+![ActivityFeed](screenshots/ActivityFeed.PNG?raw=true)
 
 When you login the tab in the middle is the first one you see. That feed shows the activity of the issues you are following (watching). 
 
