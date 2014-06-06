@@ -19,7 +19,7 @@ Add-on installation
 
 1. Log into your JIRA instance as an admin.
 2. Click the admin dropdown and choose Atlassian Marketplace.
-3. Click Find new add-ons from the left-hand side of the page.
+3. Click *Find new add-ons* from the left-hand side of the page.
 4. Locate *Zuki for JIRA* via search.
 5. Click *Try free* to begin a new trial or *Buy now* to purchase a license for Zuki for JIRA.
 6. Enter your information and click *Generate license* when redirected to MyAtlassian.
