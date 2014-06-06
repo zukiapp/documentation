@@ -4,12 +4,12 @@ This guide covers installation instructions and general information about Zuki's
 
 Why?
 ====
-Why do I need to use an addon instead of downloading the app using the Apple App Store or Google Play?
+Why do I need to use an add-on instead of downloading the app via the Apple App Store or Google Play?
 
-* **Functionality.** The addon allows you to intercept every event on your JIRA instance and unlock a very powerful functionality: Push Notifications.
-* **30-day-trial period.** Using the addon you can test both, iOS and Android applications for free.
-* **Administration.** As a company you will pay Zuki's sucription the same way you pay JIRA’s.
-* **Support.** The Zuki development team will adapt Zuki in order to get it working in your organization without extra costs.
+* **Features.** This add-on allows you to intercept every event from your JIRA instance to unlock a very powerful feature: Push Notifications.
+* **30-day trial period.** Using this add-on you can try out both iOS and Android apps for free.
+* **Administration.** As a company you will pay Zuki's subscription the same way you pay for JIRA, through the Atlassian Marketplace.
+* **Support.** Zuki's development team will tweak the app in order to get it working for your organization, at no additional cost.
 
 Installation
 ============
@@ -17,10 +17,10 @@ Installation
 Add-on installation
 -------------------
 
-1. Log into your JIRA instance as an admin.
-2. Click the admin dropdown and choose Atlassian Marketplace.
+1. Log-in to your JIRA instance as an admin.
+2. Click the admin dropdown and choose the Atlassian Marketplace option.
 3. Click *Find new add-ons* from the left-hand side of the page.
-4. Locate *Zuki for JIRA* via search.
+4. Find *Zuki for JIRA* via search.
 5. Click *Try free* to begin a new trial or *Buy now* to purchase a license for Zuki for JIRA.
 6. Enter your information and click *Generate license* when redirected to MyAtlassian.
 7. Click *Apply license*.
@@ -28,7 +28,7 @@ Add-on installation
 Download Zuki
 -------------
 
-After installing the Add-on you need to download Zuki for JIRA from the Apple App Store or the Google Play. Choose the FREE version of Zuki on both marketplaces.
+After installing the add-on you need to download Zuki for JIRA from the Apple App Store or Google Play. Choose the FREE version of Zuki on both marketplaces.
 
 Here are the links:
 Android version,
@@ -38,20 +38,20 @@ Network permissions
 -------------------
 Zuki will try to access 2 servers:
 - Push Notification Server.
-- Crashalytics Server. 
+- Crashlytics Server. 
 
 **Push Notification Server**
 
 This server is responsible for sending Apple Push Notifications. Currently we only support APNs.
-The URL https://push.zukiapp.com has to be accessible from the JIRA server which will have the Zuki's plugin installed.  
+The URL https://push.zukiapp.com has to be accessible from the JIRA server which has Zuki's plugin installed.  
 
-**Crashalytics Server**
+**Crashlytics Server**
 
-Crashalytics (http://crashlytics.com) is a broadly known and powerful crash reporting solution. Some components of this framework are hosted by Amazon, so at some point it is possible that Zuki will try to access Amazon's servers.
+Crashlytics (http://crashlytics.com) is a broadly known and powerful crash reporting solution. Some components of this tool are hosted on Amazon, so at some point it is possible that Zuki will try to access Amazon's servers.
 
 Login considerations
 --------------------
-You can login Zuki using your **JIRA's username**. Zuki doesn’t support login by email or Google Authentication yet. 
+You can log-in to Zuki using your **JIRA's username**. Zuki doesn’t support log-in with email or Google Authentication yet. 
 
 
 How to use it
@@ -62,41 +62,41 @@ Once you download Zuki and your JIRA’s administrator has installed the plugin,
 Login
 -----
 
-Just open Zuki and complete the information to login:
+Simply open Zuki and complete the information to login:
 
 ![Login](screenshots/Login.png?raw=true)
 
-URL: As the screenshot shows, you have to enter the JIRA’s URL, including the prefix HTTPS or HTTP depending on your JIRA’s configuration. The JIRA’s connection port is also important. For example: https://intranet.moove-it.com:2990/jira/
+URL: As shown in the screenshot, you have to enter JIRA’s URL, including the prefix HTTPS or HTTP depending on your  configuration. The JIRA connection port is also important. For example: https://intranet.moove-it.com:2990/jira/
 
-Username: This field is about your JIRA’s username.
+Username: Your JIRA username.
 
-Password: Your user password.
+Password: Your password.
 
 Activity feed
 ---------------------------------
 
 ![Activity Feed](screenshots/ActivityFeed.png?raw=true)
 
-The activity feed shows the activity of the issues you are following (watching). 
-Using the feed you can easily know what happened to the issues you were watching.
+It shows all the activity from the issues you are currently following (watching). 
+By using this feed, you can get a quick overview of the issues you are watching.
 
-If you are no longer interested, you can always unfollow issues just by swiping right. 
+If you are no longer interested, you can always unfollow issues by simply swiping right. 
 
-If you want to reply to a comment, you can easily take action by swiping left and the option modal pops out.
+If you want to reply to a comment, you can easily do it by swiping left and selecting the option.
 
 
 Issues assigned to me
 ---------------------------------------
 
-This list contains all the issues assigned to you. 
+Contains all the issues assigned to you. 
 
 ![My issues](screenshots/MyIssues.png?raw=true)
 
-You can also follow and unfollow tickets assigned to you swiping right. If you follow an issue a green indicator turns on.
+You can also follow and unfollow tickets assigned to you by swiping right. If you are following an issue, a green indicator will appear in the upper-right corner.
 
 ![Follow from my issues](screenshots/FollowFromMyIssues.png?raw=true)
 
-You can sort your issues by Due date, Priority or Last activity. By default issues are sorted out by Priority and Last activity.
+You can sort your issues by due date, priority or last activity. By default, the issues are sorted by priority and last activity.
 
 ![Sort](screenshots/Sort.png?raw=true)
 
@@ -106,21 +106,21 @@ All the issues
 
 ![All Issues](screenshots/AllIssues.png?raw=true)
 
-This list contains all the issues of the projects you are involved. Those issues are sorted by Last activity, so recently updated issues are closer to the top of the list.
+Contains every issue for every project you are involved with. These issues are sorted by last activity, so recently updated issues appear at the top of the list. 
 
-Search issues
+Search tickets
 -------------
 
-The search is located on the top of the application menu.
+The search box is located in the application side menu.
 
 ![Search](screenshots/Search.png?raw=true)
 
-You can search an issue by key or you can search it by content. The search looks for the string at the content of comments, description and summary.
+You can search a ticket by key or content. Results will include tickets matching the searched string in the description, summary or comments.
 
 JIRA filters
 ------------
 
-Zuki displays the list of your favorite JIRA filters. The list also shows the issue counter for each filter.
+Zuki displays your favorite JIRA filters, along with the number of tickets for each of them. 
 
 ![Filters](screenshots/Filtes.png?raw=true)
 
@@ -128,11 +128,11 @@ Zuki displays the list of your favorite JIRA filters. The list also shows the is
 Filter by project
 -----------------
 
-Zuki also allows you to filter the three tabs by project. You can unfilter by clicking again on the project.
+You can filter and unfilter by a specific project, each of the three tabs.
 
 ![Projects](screenshots/Projects.png?raw=true)
 
-Action over issues
+Actions over issues
 ------------------
 
 ![Options](screenshots/Options.png?raw=true)
