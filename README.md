@@ -116,7 +116,7 @@ The search is located on the top of the application menu.
 
 ![Search](screenshots/Search.png?raw=true)
 
-You can search an issue by key or you can search it by content. The search looks at the content of comments, description and summary.
+You can search an issue by key or you can search it by content. The search looks for the string at the content of comments, description and summary.
 
 JIRA filters
 ------------
