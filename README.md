@@ -72,21 +72,21 @@ Username: This field is about your JIRA’s username.
 
 Password: Your user password.
 
-Activity feed (tab on the middle)
+Activity feed
 ---------------------------------
 
 ![Activity Feed](screenshots/ActivityFeed.png?raw=true)
 
 When you login the tab in the middle is the first one you see. That feed shows the activity of the issues you are following (watching). 
 
-Using that tab you can easily know what happened with those issues you really take care about.
+Using that tab you can easily know what happened to the issues you were watching.
 
 If you are no longer interested, you can always unfollow issues just by swiping right. 
 
 If you want to reply to a comment, you can easily take action by swiping left and the option modal pops out.
 
 
-Issues assigned to me (tab on the left)
+Issues assigned to me
 ---------------------------------------
 
 That tab contains all the issues assigned to you. 
@@ -102,7 +102,7 @@ You can sort your issues by Due date, Priority or Last activity. By default issu
 ![Sort](screenshots/Sort.png?raw=true)
 
 
-All the issues (tab on the right)
+All the issues
 ---------------------------------
 
 ![All Issues](screenshots/AllIssues.png?raw=true)
