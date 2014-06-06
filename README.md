@@ -51,13 +51,13 @@ Crashlytics (http://crashlytics.com) is a broadly known and powerful crash repor
 
 Login considerations
 --------------------
-You can log-in to Zuki using your **JIRA's username**. Zuki doesn’t support log-in with email or Google Authentication yet. 
+You can log-in to Zuki using your **JIRA username**. Zuki doesn’t support log-in with email or Google Authentication yet. 
 
 
 How to use it
 =============
 
-Once you download Zuki and your JIRA’s administrator has installed the plugin, you are ready to go.
+Once you download Zuki and your JIRA administrator has installed the plugin, you are ready to go.
 
 Login
 -----
