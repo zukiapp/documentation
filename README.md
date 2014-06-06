@@ -143,7 +143,9 @@ Credits
 
 ![Moove-IT](http://moove-it.com/assets/logos/mooveitLogo-f5be7bdde9998bbdfae39475d3f3d460.png?raw=true)
 
-Zuki is a product of Moove-IT (www.moove-it.com)
+www.moove-it.com
+
+© 2014 Moove-iT. All rights reserved
 
 Website: www.zukiapp.com
 
