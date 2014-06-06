@@ -77,9 +77,8 @@ Activity feed
 
 ![Activity Feed](screenshots/ActivityFeed.png?raw=true)
 
-When you login the tab in the middle is the first one you see. That feed shows the activity of the issues you are following (watching). 
-
-Using that tab you can easily know what happened to the issues you were watching.
+The activity feed shows the activity of the issues you are following (watching). 
+Using the feed you can easily know what happened to the issues you were watching.
 
 If you are no longer interested, you can always unfollow issues just by swiping right. 
 
@@ -89,7 +88,7 @@ If you want to reply to a comment, you can easily take action by swiping left an
 Issues assigned to me
 ---------------------------------------
 
-That tab contains all the issues assigned to you. 
+This list contains all the issues assigned to you. 
 
 ![My issues](screenshots/MyIssues.png?raw=true)
 
@@ -107,7 +106,7 @@ All the issues
 
 ![All Issues](screenshots/AllIssues.png?raw=true)
 
-The tab on the right has all the issues of the projects you are involved. Those issues are sorted by Last activity, so recently updated issues are closer to the top of the list.
+This list contains all the issues of the projects you are involved. Those issues are sorted by Last activity, so recently updated issues are closer to the top of the list.
 
 Search issues
 -------------
